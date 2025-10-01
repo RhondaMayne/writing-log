@@ -9,3 +9,10 @@
 - **Date:** 30/9/2025
 - **Word Count:** 1000
 - **Time Spent Writing:** 4 hours 30 minutes
+
+- ## Session 3
+- **Date:** 1/10/2025 
+- **Word Count:** 1200
+- **Time Spent Writing:** 4 hours 15 minutes
+
+
