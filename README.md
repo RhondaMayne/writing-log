@@ -14,5 +14,11 @@
 - **Date:** 1/10/2025 
 - **Word Count:** 1200
 - **Time Spent Writing:** 4 hours 15 minutes
+-
+- ## Session 4
+- **Date:** 2/10/2025 
+- **Word Count:** 2000
+- **Time Spent Writing:** 4 hours 15 minutes
+
 
 
