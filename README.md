@@ -20,5 +20,10 @@
 - **Word Count:** 2000
 - **Time Spent Writing:** 4 hours 15 minutes
 
+## Session 5
+- **Date:** 3/10/2025
+- **Word Count:** 500 words (Roundtable CfP)
+- **Time Spent Writing:** 3 hours 50 minutes
+
 
 
