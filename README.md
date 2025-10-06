@@ -28,7 +28,7 @@
 ## Session 6
 - **Date:** 6/10/2025 
 - **Word Count:** 600 words
-- **Time Spent Writing:** 6 hiurs 30 minutes
+- **Time Spent Writing:** 6 hours 30 minutes
 
 
 
