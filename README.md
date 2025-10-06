@@ -25,5 +25,12 @@
 - **Word Count:** 500 words (Roundtable CfP)
 - **Time Spent Writing:** 3 hours 50 minutes
 
+## Session 6
+- **Date:** 6/10/2025 
+- **Word Count:** 600 words
+- **Time Spent Writing:** 6 hiurs 30 minutes
+
+
+
 
 
