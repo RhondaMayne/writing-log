@@ -30,6 +30,12 @@
 - **Word Count:** 600 words
 - **Time Spent Writing:** 6 hours 30 minutes
 
+- ## Session 7
+- **Date:** 7/10/2025 
+- **Word Count:** 1000 words
+- **Time Spent Writing:** 4 hours 15 minutes
+
+
 
 
 
