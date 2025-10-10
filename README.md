@@ -36,9 +36,15 @@
 - **Time Spent Writing:** 4 hours 15 minutes
 
 - ## Session 9
-- **Date:** 2025-09-30
+- **Date:** 9/10/2025
 - **Word Count:** editing
 - **Time Spent Writing:** 6 hours 30 minutes
+
+- ## Session 10
+- **Date:** 10/10/2025
+- **Word Count:** 1200 words (BAMS article submitted)
+- **Time Spent Writing:** 6 hours 15 minutes
+
 
 
 
