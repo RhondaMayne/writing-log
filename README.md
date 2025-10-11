@@ -50,6 +50,11 @@
 - **Word Count:** 1200 words (BAMS article submitted)
 - **Time Spent Writing:** 6 hours 15 minutes
 
+## Session 11
+- **Date:** 11/10/2025
+- **Word Count:** 300
+- **Time Spent Writing:** 3 hours
+
 
 
 
