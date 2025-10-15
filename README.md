@@ -55,6 +55,23 @@
 - **Word Count:** 300
 - **Time Spent Writing:** 3 hours
 
+## Session 13
+- **Date:** 13/10/2025
+- **Word Count:** 660
+- **Time Spent Writing:** 4 hours
+
+## Session 14
+- **Date:**14/10/2015
+- **Word Count:** 900 (research notes)
+- **Time Spent Writing:** 3 hours 45 minutes
+
+- ## Session 15
+- **Date:** 15/10/2025
+- **Word Count:** 1600 (undergraduate syllabus)
+- **Time Spent Writing:** 4 hours 30 minutes
+
+
+
 
 
 
