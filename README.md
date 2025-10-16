@@ -70,6 +70,12 @@
 - **Word Count:** 1600 (undergraduate syllabus)
 - **Time Spent Writing:** 4 hours 30 minutes
 
+- ## Session 16
+- **Date:** 16/10/2025
+- **Word Count:** 1750 words
+- **Time Spent Writing:** 4 hours 15 minutes
+
+
 
 
 
