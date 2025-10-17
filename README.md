@@ -67,13 +67,18 @@
 
 - ## Session 15
 - **Date:** 15/10/2025
-- **Word Count:** 1600 (undergraduate syllabus)
+- **Word Count:** 1600 (UG syllabus)
 - **Time Spent Writing:** 4 hours 30 minutes
 
 - ## Session 16
 - **Date:** 16/10/2025
 - **Word Count:** 1750 words
 - **Time Spent Writing:** 4 hours 15 minutes
+
+## Session 17
+- **Date:** 17/10/2025
+- **Word Count:** 2300 words (UG syllabus)
+- **Time Spent Writing:** 3 hours 45 minutes
 
 
 
