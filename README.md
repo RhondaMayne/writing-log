@@ -80,6 +80,11 @@
 - **Word Count:** 2300 words (UG syllabus)
 - **Time Spent Writing:** 3 hours 45 minutes
 
+## Session 18
+- **Date:** 18/10/2025
+- **Word Count:** 4779
+- **Time Spent Writing:** 3 hours 30 minutes (Animating London: Dance, Gardens, and Urban Rhythms in Woolf’s TY)
+
 
 
 
