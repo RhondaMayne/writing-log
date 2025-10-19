@@ -85,6 +85,13 @@
 - **Word Count:** 4779
 - **Time Spent Writing:** 3 hours 30 minutes (Animating London: Dance, Gardens, and Urban Rhythms in Woolf’s TY)
 
+## Session 19
+- **Date:** 19/10/2025
+- **Word Count:** 2000
+- **Time Spent Writing:** 3 hours 45 minutes (proposal: would Virginia Woolf Miscellany be interested in a review of 'Woolf Works' - returning to the Royal Opera House on Saturday, 17 January 2026?).
+
+
+
 
 
 
