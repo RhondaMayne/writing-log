@@ -90,6 +90,18 @@
 - **Word Count:** 2000
 - **Time Spent Writing:** 3 hours 45 minutes (proposal: would Virginia Woolf Miscellany be interested in a review of 'Woolf Works' - returning to the Royal Opera House on Saturday, 17 January 2026?).
 
+## Session 20
+- **Date:** 20/10/2025
+- **Word Count:** 1300
+- **Time Spent Writing:** 2 hours 30 minutes
+
+- ## Session 21
+- **Date:** 21/10/2025
+- **Word Count:** 600
+- **Time Spent Writing:** 3 hours 10 minutes
+
+
+
 
 
 
