@@ -100,6 +100,11 @@
 - **Word Count:** 600
 - **Time Spent Writing:** 3 hours 10 minutes
 
+- ## Session 22
+- **Date:** 22/10/2025
+- **Word Count:** 500
+- **Time Spent Writing:** 3 hours 45 minutes
+
 
 
 
