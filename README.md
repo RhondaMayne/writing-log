@@ -120,6 +120,23 @@
 - **Word Count:** 465
 - **Time Spent Writing:** 4 hours 10 minutes
 
+## Session 26
+- **Date:** 26/10/2025
+- **Word Count:** 320
+- **Time Spent Writing:**  4 hours 10 minutes
+
+- ## Session 27
+- **Date:** 27/10/2025
+- **Word Count:** 900
+- **Time Spent Writing:**  3 hours 45 minutes
+
+## Session 28
+- **Date:** 28/10/2025
+- **Word Count:** 400
+- **Time Spent Writing:** 4 hours 50 minutes
+
+
+
 
 
 
