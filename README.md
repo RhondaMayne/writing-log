@@ -139,6 +139,24 @@
 - **Date:** 29/10/2025
 - **Word Count:** 750
 - **Time Spent Writing:** 3 hours 45 minutes
+- 
+- ## Session 30
+- **Date:** 30/10/2025
+- **Word Count:** 300 
+- **Time Spent Writing:** 4 hours
+
+- ## Session 31
+- **Date:** 31/10/2025
+- **Word Count:** 600
+- **Time Spent Writing:** 3 hours 50 minutes
+
+- ## Session 32
+- **Date:** 3/11/2025
+- **Word Count:** 990 words
+- **Time Spent Writing:** 4 hours
+
+
+
 
 
 
