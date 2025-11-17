@@ -165,7 +165,74 @@
 - **Word Count:** 1100 words
 - **Time Spent Writing:** 4 hours 45 minutes
 
-- 
+## Session 35
+- **Date:** 6/11/2025
+- **Word Count:** 500 words
+- **Time Spent Writing:** 2 hours 45 minutes
+
+- ## Session 36
+- **Date:** 7/11/2025
+- **Word Count:** 750 words
+- **Time Spent Writing:** 3 hours 30 minutes
+
+- ## Session 37
+- **Date:** 8/11/2025
+- **Word Count:** 445 words
+- **Time Spent Writing:** 1 hour 45 minutes
+
+- ## Session 38
+- **Date:** 9/11/2025
+- **Word Count:** 670 words
+- **Time Spent Writing:** 5 hours
+
+- ## Session 39
+- **Date:** 10/11/2025
+- **Word Count:** 880 words
+- **Time Spent Writing:** 3 hours 15 minutes
+
+- ## Session 40
+- **Date:** 11/11/2025
+- **Word Count:** zero (reading)
+- **Time Spent Writing:** 4 hours
+
+- ## Session 41
+- **Date:** 12/11/2025
+- **Word Count:** 825 words
+- **Time Spent Writing:** 3 hours 15 minutes
+
+- ## Session 42
+- **Date:** 13/11/2025
+- **Word Count:** 275 words
+- **Time Spent Writing:** 1 hour 45 minutes
+
+- ## Session 43
+- **Date:** 13/11/2015
+- **Word Count:** 772 words
+- **Time Spent Writing:** 4 hours
+
+- ## Session 44
+- **Date:** 17/11/2025
+- **Word Count:** 1690 words
+- **Time Spent Writing:** 6 hours 15 minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
