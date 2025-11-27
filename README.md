@@ -223,7 +223,48 @@
 ## Session 46
 - **Date:** 19/11/2025
 - **Word Count:** 1209 words
+- **Time Spent Writing:** 6 hours
+
+## Session 47
+- **Date:** 20/11/2025
+- **Word Count:** 350 words
+- **Time Spent Writing:** 4 hours 45 minutes
+
+- ## Session 48
+- **Date:** 21/11/2025
+- **Word Count:** 995 words
+- **Time Spent Writing:** 3 hours 50 minutes
+
+- ## Session 49
+- **Date:** 22/11/2025
+- **Word Count:** 2100 words
+- **Time Spent Writing:** 4 hours 45 minutes
+
+- ## Session 50
+- **Date:** 24/11/2025
+- **Word Count:** 1495 words 
+- **Time Spent Writing:** 5 hour 30 minutes
+
+- ## Session 51
+- **Date:** 25/11/2025
+- **Word Count:** 2600 words
 - **Time Spent Writing:** 5 hours
+
+- ## Session 52
+- **Date:** 26/11/2025
+- **Word Count:** 1980 words
+- **Time Spent Writing:** 4 hours 20 minutes
+
+- ## Session 53
+- **Date:** 27/11/2025
+- **Word Count:** 2100 words
+- **Time Spent Writing:** 4 hours 15 minutes 
+
+
+
+
+
+
 
 
 
