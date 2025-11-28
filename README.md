@@ -258,7 +258,14 @@
 - ## Session 53
 - **Date:** 27/11/2025
 - **Word Count:** 2100 words
-- **Time Spent Writing:** 4 hours 15 minutes 
+- **Time Spent Writing:** 4 hours 15 minutes
+
+- ## Session 54
+- **Date:** 28/11/2025
+- **Word Count:** 1800 words
+- **Time Spent Writing:** 4 hours
+
+
 
 
 
