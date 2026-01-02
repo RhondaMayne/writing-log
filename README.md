@@ -320,6 +320,73 @@
 - **Word Count:** 2500 words
 - **Time Spent Writing:** 6 hours
 
+## Session 66
+- **Date:** 10/12/2025
+- **Word Count:** 800 words
+- **Time Spent Writing:** 2 hours 30 minutes
+
+- ## Session 67
+- **Date:** 11/12/2025
+- **Word Count:** 550 words
+- **Time Spent Writing:** 4 hours 15 minutes
+
+- ## Session 68
+- **Date:** 12/12/2025
+- **Word Count:** 450 words
+- **Time Spent Writing:** 3 hours 45 minutes
+
+- ## Session 69
+- **Date:** 13/12/2025
+- **Word Count:** 390 words
+- **Time Spent Writing:** 4 hours
+
+- ## Session 70
+- **Date:** 14/12/2025
+- **Word Count:** 430 words
+- **Time Spent Writing:** 4 hours 30 mins
+
+- ## Session 71
+- **Date:** 15/12/2025
+- **Word Count:** 500 words
+- **Time Spent Writing:** 3 hours 15 minutes
+
+- ## Session 72
+- **Date:** 16/12/2025
+- **Word Count:** 550 words
+- **Time Spent Writing:**4 hours 40 mins
+
+- ## Session 73
+- **Date:** 17/12/2025
+- **Word Count:** 475 words
+- **Time Spent Writing:** 3 hours
+
+- ## Session 74
+- **Date:** 18/12/2025
+- **Word Count:** 655 words
+- **Time Spent Writing:** 4 hours 50 mins
+
+- CHRISTMAS BREAK
+
+- ## Session 75
+- **Date:** 2/1/2026
+- **Word Count:** 550 words
+- **Time Spent Writing:** 5 hours 45 minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
