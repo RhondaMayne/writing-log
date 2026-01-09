@@ -397,6 +397,18 @@
 - **Word Count:** zero - editing work
 - **Time Spent Writing:** 6 hours
 
+## Session 81
+- **Date:** 8/1/2026
+- **Word Count:** editing work
+- **Time Spent Writing:** 6 hours 30 minutes
+
+## Session 82
+- **Date:** 9/1/2026
+- **Word Count:** BAMS CONFERENCE
+- **Time Spent Writing:** 10.30-4.30
+
+
+
 
 
 
