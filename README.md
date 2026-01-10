@@ -405,7 +405,12 @@
 ## Session 82
 - **Date:** 9/1/2026
 - **Word Count:** BAMS CONFERENCE
-- **Time Spent Writing:** 10.30-4.30
+- **Time spent:** 6 hours
+
+## Session 83
+- **Date:** 10/1/2026
+- **Word Count:** 226 words
+- **Time Spent Writing:** 3 hours 30 mins
 
 
 
